@@ -1,2 +1,0 @@
-# microServicesPractice
-Practicing Microservices
